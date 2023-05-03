@@ -1,3 +1,5 @@
+![jsapi](https://user-images.githubusercontent.com/123208180/236049144-53849f0d-81c4-42c1-a7ce-0b00d722ccc4.gif)
+
 # JavaScriptSearchAPI
 
 API Operations with JavaScript
